@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Example text
+description: Just an example.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
