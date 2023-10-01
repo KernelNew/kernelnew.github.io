@@ -5,6 +5,7 @@ description: The website home.
 ---
 
 # Hi there, NewKernel here.
+* * *
 Just your ordinary guy who like to play with code.
 
 This is my website I made and hosted on GitHub.
